@@ -1,0 +1,24 @@
+{
+  "name": "heroku-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/averyjbrown2/heroku-setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/averyjbrown2/heroku-setup/issues"
+  },
+  "homepage": "https://github.com/averyjbrown2/heroku-setup#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
